@@ -5,8 +5,8 @@
 To run the code:
 
 - For training MLP: 
-	python train_mlp.py
+	```python train_mlp.py```
 - For training CNN: 
-	python train_cnn.py
+	```python train_cnn.py```
 - For testing
-	python main.py
+	```python main.py```
