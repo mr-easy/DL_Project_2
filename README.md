@@ -13,3 +13,5 @@ To run the code:
 - For testing
 	
 	```python main.py```
+	
+Final report is named: **Deep_Learning_Report_2.pdf**
